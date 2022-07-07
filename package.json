@@ -2,9 +2,6 @@
 	"name": "sourse-api",
 	"version": "1.0.0",
 	"main": "index.js",
-	
-
-
 	"scripts": {
 		"dev": "nodemon -r dotenv/config src/index.ts | pino-colada",
 		"build": "rm -rf dist && tsc",
@@ -23,6 +20,7 @@
 		"bcrypt": "^5.0.1",
 		"bson": "^4.6.4",
 		"fastify": "^4.0.3",
+		"foo": "^1.0.0",
 		"fuse.js": "^6.6.2",
 		"lodash": "^4.17.21"
 	},

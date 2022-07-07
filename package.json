@@ -23,7 +23,10 @@
 		"fastify": "^4.0.3",
 		"fastify-jwt": "^4.2.0",
 		"fuse.js": "^6.6.2",
-		"lodash": "^4.17.21"
+		"lodash": "^4.17.21",
+		"discord.js": "^11.5.1",
+    "dotenv": "8.2.0"
+
 	},
 	"devDependencies": {
 		"@tsconfig/node16": "^1.0.3",
